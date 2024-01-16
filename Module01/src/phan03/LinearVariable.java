@@ -1,3 +1,5 @@
+//Viết chương trình giải phương trình bậc 1.
+
 package phan03;
 import java.util.Scanner;
 public class LinearVariable {

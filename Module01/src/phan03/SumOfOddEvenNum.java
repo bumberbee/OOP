@@ -1,3 +1,5 @@
+//Viết chương trình in ra tổng 1+3+5+…+n nếu n là số lẻ, 2+4+6+…+n nếu n là số chẵn.
+
 package phan03;
 
 import java.util.Scanner;
